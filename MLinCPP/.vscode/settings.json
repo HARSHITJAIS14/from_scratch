@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "span": "cpp",
+        "chrono": "cpp",
+        "type_traits": "cpp",
+        "array": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "regex": "cpp",
+        "format": "cpp",
+        "stacktrace": "cpp",
+        "ratio": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "bitset": "cpp",
+        "functional": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0.5
+}
